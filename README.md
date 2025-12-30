@@ -253,24 +253,6 @@ Contributions welcome! Areas of focus:
 
 MIT License
 
-## Citation
-
-If you use TOON in research, please cite:
-```
-@software{toon2025,
-  title={TOON: Text Object Oriented Notation},
-  author={Your Name},
-  year={2025},
-  url={https://github.com/yourusername/toon-converter}
-}
-```
-
-## Contact
-
-For issues and questions:
-- GitHub Issues: [Create an issue](https://github.com/yourusername/toon-converter/issues)
-- Email: your.email@example.com
-
 ---
 
 **Built for efficient LLM-powered code analysis**
